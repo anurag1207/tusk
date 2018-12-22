@@ -5,4 +5,6 @@ welcome to teluska kitchen
 
 kheer
 pasta
-
+pasta
+pizza
+chicken
